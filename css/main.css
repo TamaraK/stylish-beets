@@ -15,3 +15,25 @@ nav ol {
 h1 {
   font-weight: bold;
 }
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.serving {
+  font-style: italic;
+}
+
+cite {
+  font-size: 0.8rem;
+}
