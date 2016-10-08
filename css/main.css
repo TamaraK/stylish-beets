@@ -7,6 +7,7 @@ nav ol {
   font-size: 1.5rem;
   font-weight: bold;
   color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .large {
@@ -16,11 +17,15 @@ nav ol {
 
 h1 {
   font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
 }
 
 h2 {
   font-size: 1.5rem;
   font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  color: #3f1622;
 }
 
 figcaption {
@@ -43,4 +48,12 @@ cite {
 
 .1 .2 .3 {
   font-weight: normal;
+}
+
+a {
+  color: #8f2440;
+}
+
+a:hover {
+  color: #3f1622;
 }
