@@ -9,7 +9,7 @@ nav ol {
   font-size: 1.5rem;
   font-weight: bold;
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 .large {
@@ -19,14 +19,14 @@ nav ol {
 
 h1 {
   font-weight: bold;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
 }
 
 h2 {
   font-size: 1.5rem;
   font-weight: bold;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
 }
 
@@ -48,9 +48,9 @@ cite {
   font-size: 0.8rem;
 }
 
-.1
-.2
-.3 {
+.a
+.b
+.c {
   font-weight: normal;
 }
 
@@ -61,10 +61,11 @@ a {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
 
 main {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
 }
 
 .bullets {
@@ -73,4 +74,8 @@ main {
 
 .alphas {
   list-style-type: lower-greek;
+}
+
+img {
+  width: 450px;
 }
