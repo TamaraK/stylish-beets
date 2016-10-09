@@ -1,7 +1,9 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
-  width: 75vw
+  width:1000px;
+  margin: auto;
+  border: 3px solid #8f2440;
 }
 
 nav ol {
@@ -47,7 +49,9 @@ cite {
   font-size: 0.8rem;
 }
 
-.1 .2 .3 {
+.1
+.2
+.3 {
   font-weight: normal;
 }
 
@@ -70,4 +74,9 @@ main {
 
 .alphas {
   list-style-type: lower-greek;
+}
+
+img.resize{
+    width:540px; /* you can use % */
+    height: auto;
 }
