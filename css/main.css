@@ -1,8 +1,8 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
-  width:1000px;
-  margin: auto;
+  max-width: 1000px;
+  margin:auto;
 }
 
 nav ol {
@@ -13,7 +13,7 @@ nav ol {
 }
 
 .large {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: bold;
 }
 
@@ -77,5 +77,5 @@ main {
 }
 
 img {
-  width: 450px;
+  width: 100%;
 }
